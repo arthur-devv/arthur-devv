@@ -11,5 +11,5 @@ style="padding-right:15px;" />
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 style="padding-right:15px;" />
 
-<br clear="left"/>S
+br clear="left"/>S
 
