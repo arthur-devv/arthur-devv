@@ -1,5 +1,6 @@
 ## Arthur👨🏽‍💻
-**"Developer"**
+
+Developer
 
 ---
 ## Languages 
