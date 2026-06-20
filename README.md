@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 💻 Developer
-- 🤖 Interested in AI & Automation
+- 🤖 Interested in AI
 - 🔒 Learning Cyber Security
 - 🎮 Building Games & Software
 - 📚 Always Learning
