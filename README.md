@@ -10,25 +10,13 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+💻 Software Developer • 🤖 Interested in Artificial Intelligence • 🔒 Learning Cyber Security
+</p>
 
-- 💻 Developer
-- 🤖 Interested in AI
-- 🔒 Learning Cyber Security
-
-</td>
-<td width="50%">
-
-- 🎮 Building Games & Software
-- 📚 Always Learning
-- 🚀 Open Source Enthusiast
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+🎮 Building Games and Software • 📚 Always Learning • 🚀 Open Source Enthusiast
+</p>
 ---
 
 ## 🛠️ Languages
