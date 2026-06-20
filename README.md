@@ -10,14 +10,12 @@
 
 ## 🚀 About Me
 
-<p align="center">
-💻 Software Developer • 🤖 Interested in Artificial Intelligence • 🔒 Learning Cyber Security
-</p>
-
-<p align="center">
-🎮 Building Games and Software • 📚 Always Learning • 🚀 Open Source Enthusiast
-</p>
----
+- 💻 Developer
+- 🤖 Interested in AI
+- 🔒 Learning Cyber Security
+- 🎮 Building Games & Software
+- 📚 Always Learning
+- 🚀 Open Source Enthusiast
 
 ## 🛠️ Languages
 
