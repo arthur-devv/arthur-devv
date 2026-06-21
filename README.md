@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Arthur Banner" width="100%" />
+  <img src="assets/banner.png" alt="Arthur Banner" width="50%" />
 </p>
 
 `Developer`
