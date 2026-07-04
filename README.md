@@ -81,6 +81,9 @@
 <a href="https://github.com/arthur-devv">
   <img src="https://img.shields.io/badge/GitHub-arthur--devv-1a1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=dc143c" alt="GitHub"/>
 </a>
+<a href="https://www.futurearthurdevv.com">
+  <img src="https://img.shields.io/badge/Website-www.futurearthurdevv-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=8b0000" alt="Website"/>
+</a>
 <!-- Add your socials — just swap in your usernames:
 <a href="https://linkedin.com/in/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077b5" alt="LinkedIn"/>
