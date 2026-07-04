@@ -61,7 +61,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arthur-devv&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=arthur-devv&theme=darkhub&column=7" alt="Trophies"/>
 </div>
 
 ---
