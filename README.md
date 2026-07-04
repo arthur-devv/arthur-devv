@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:1a1a1a&height=200&section=header&text=arthur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%20%7C%20Cyber%20Security&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:1a1a1a&height=200&section=header&text=Arthur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Building+software+that+matters;Exploring+AI+%26+Machine+Learning;Learning+Cyber+Security;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
@@ -30,6 +30,9 @@
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
+
+### Exploring
+<img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs,bash&theme=dark" alt="Learning"/>
 
 </div>
 
@@ -73,6 +76,7 @@
 
 </div>
 
+> 💡 **Tip:** Pin your best repos on your profile so they show up right below this README!
 
 ---
 
@@ -100,5 +104,12 @@
 ---
 
 <div align="center">
+
+### 💬 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8B0000,100:DC143C&height=120&section=footer" width="100%"/>
+
+**⭐ From [arthur-devv](https://github.com/arthur-devv) — take your time. 🎭**
 
 </div>
