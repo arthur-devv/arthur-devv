@@ -76,7 +76,6 @@
 
 </div>
 
-> 💡 **Tip:** Pin your best repos on your profile so they show up right below this README!
 
 ---
 
