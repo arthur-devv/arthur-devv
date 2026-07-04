@@ -17,27 +17,7 @@
 
 ## 🎭 About Me
 
-```python
-class Arthur:
-    def __init__(self):
-        self.role = "Developer"
-        self.interests = ["AI", "Cyber Security", "Game Dev"]
-        self.current_focus = "Building cool projects & levelling up"
-        self.fun_fact = "The code works... I just don't know why"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Check out my repos 👇")
-
-me = Arthur()
-me.say_hi()
-```
-
-- 💻 **Developer** — building software, games & everything in between
-- 🤖 Deep-diving into **AI & Machine Learning**
-- 🔐 Studying **Cyber Security** — breaking things to learn how to protect them
-- 🎮 Creating **games & software** for fun and profit
-- 🚀 **Open source enthusiast** — always happy to collaborate
-- 📚 Currently learning: *everything I can get my hands on*
+**Developer**
 
 ---
 
