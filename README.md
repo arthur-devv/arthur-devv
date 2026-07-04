@@ -58,14 +58,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=arthur-devv&theme=darkhub&column=7" alt="Trophies"/>
-</div>
-
----
-
 ## 🔥 Featured Projects
 
 <!-- Swap these for your best repos -->
