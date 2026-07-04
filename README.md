@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=arthur-devv&style=for-the-badge&color=dc143c&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 <img src="https://img.shields.io/github/followers/arthur-devv?style=for-the-badge&color=8b0000&labelColor=1a1a1a" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/arthur-devv?style=for-the-badge&color=dc143c&labelColor=1a1a1a" alt="Stars"/>
 
 </div>
 
