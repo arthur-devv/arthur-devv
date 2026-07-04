@@ -96,6 +96,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:8B0000,100:DC143C&height=120&section=footer" width="100%"/>
 
-**⭐ From [arthur-devv](https://github.com/arthur-devv) — take your time. 🎭**
+**⭐ Thanks for visiting my profile**
 
 </div>
