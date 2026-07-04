@@ -18,7 +18,12 @@
 
 ## 🎭 About Me
 
-**Developer**
+- 💻 **Developer** — building software, games & everything in between
+- 🤖 Interested in **AI**
+- 🔐 Learning **Cyber Security**
+- 🎮 Building **games & software**
+- 📚 Always learning
+- 🚀 Open source enthusiast
 
 ---
 
