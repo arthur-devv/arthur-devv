@@ -40,9 +40,6 @@
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
 
-### Exploring
-<img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs,bash&theme=dark" alt="Learning"/>
-
 </div>
 
 ---
