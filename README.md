@@ -37,7 +37,7 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages"/>
 
-### Tools & Platforms
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
 
 ### Exploring
