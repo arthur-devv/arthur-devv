@@ -34,8 +34,8 @@
 <h2>📊 Stats &amp; Activity</h2>
  
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthur-devv&show_icons=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=b4befe&text_color=cdd6f4&border_color=45475a&rank_icon=github" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-devv&layout=compact&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=45475a" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats-rho-nine-61.vercel.app/api?username=arthur-devv&show_icons=true&count_private=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=b4befe&text_color=cdd6f4&border_color=45475a&rank_icon=github" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-rho-nine-61.vercel.app/api/top-langs/?username=arthur-devv&layout=compact&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=45475a" alt="Top Languages"/>
 <br/><br/>
  
 <img src="https://streak-stats.demolab.com?user=arthur-devv&background=1e1e2e&ring=cba6f7&fire=f5c2e7&currStreakLabel=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&sideLabels=b4befe&dates=a6adc8&border=45475a" alt="GitHub Streak"/>
@@ -58,7 +58,7 @@
 <a href="https://github.com/arthur-devv">
   <img src="https://img.shields.io/badge/GitHub-arthur--devv-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=cba6f7" alt="GitHub"/>
 </a>
-<a href="mailto:arthur.official.business@gmail.com">
+<a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-Get_in_touch-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b4befe" alt="Email"/>
 </a>
 </div>
