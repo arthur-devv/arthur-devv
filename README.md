@@ -58,6 +58,9 @@
 <a href="https://github.com/arthur-devv">
   <img src="https://img.shields.io/badge/GitHub-arthur--devv-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=cba6f7" alt="GitHub"/>
 </a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_touch-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b4befe" alt="Email"/>
+</a>
 </div>
 ---
  
